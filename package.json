@@ -1,25 +1,22 @@
 {
-  "name": "wordlist-english",
-  "version": "1.1.0",
-  "description": "A whole lotta English words.",
+  "name": "wordlist-russian",
+  "version": "1.0.0",
+  "description": "A whole lotta Russian words.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacksonrayhamilton/wordlist-english.git"
+    "url": "https://github.com/svetlitskiy/wordlist-russian.git"
   },
   "keywords": [
     "word",
     "words",
     "list",
-    "english",
-    "american",
-    "british",
-    "canadian"
+    "russian"
   ],
-  "author": "Jackson Ray Hamilton",
+  "author": "Aleksey Svetlitskiy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jacksonrayhamilton/wordlist-english/issues"
+    "url": "https://github.com/svetlitskiy/wordlist-russian/issues"
   },
-  "homepage": "https://github.com/jacksonrayhamilton/wordlist-english"
+  "homepage": "https://github.com/svetlitskiy/wordlist-russian"
 }
