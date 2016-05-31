@@ -1,11 +1,11 @@
 {
   "name": "wordlist-russian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A whole lotta Russian words.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/svetlitskiy/wordlist-russian.git"
+    "url": "git+https://github.com/svetlitskiy/wordlist-russian.git"
   },
   "keywords": [
     "word",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/svetlitskiy/wordlist-russian/issues"
   },
-  "homepage": "https://github.com/svetlitskiy/wordlist-russian"
+  "homepage": "https://github.com/svetlitskiy/wordlist-russian",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

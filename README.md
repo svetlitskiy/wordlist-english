@@ -6,3 +6,10 @@ Words obtained from the [SCOWL][] project.
 
 [SCOWL]: http://wordlist.aspell.net/
 [wordlist-english]: https://github.com/jacksonrayhamilton/wordlist-english
+
+
+```js
+var wordlist = require('wordlist-russian');
+var russianWords = wordlist.russian;
+
+```
